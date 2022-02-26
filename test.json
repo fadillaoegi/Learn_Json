@@ -1,0 +1,39 @@
+[
+    {
+        "nama"      : "Fadil",
+        "nim"       : "19410100076",
+        "prodi"     : "S-1 Sistem Informasi",
+        "hobi"      : [
+                        "coding",
+                        "badminton",
+                        "play game"
+                    ],
+        "status"    : "Pelajar",
+        "Instansi"  : "Universitas Dinamika",
+        "orangTua"  : {
+    
+            "ayah"  : "Harnoto Laoegi, SH",
+            "ibu"   : "Umi Harti,SH"
+        }
+    },
+
+    {
+        "nama"      : "Killua",
+        "nim"       : "19410100076",
+        "prodi"     : "S-1 Teknik Informatika",
+        "hobi"      : [
+                        "coding",
+                        "badminton",
+                        "play game"
+                    ],
+        "status"    : "Pelajar",
+        "Instansi"  : "Universitas Dinamika",
+        "orangTua"  : {
+    
+            "ayah"  : "Harnoto Laoegi, SH",
+            "ibu"   : "Umi Harti,SH"
+        }
+    }
+
+
+]
